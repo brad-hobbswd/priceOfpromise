@@ -1,99 +1,60 @@
 # The Price of a Promise
 
-A Journey Through Deception, Loss, Recovery, and Hope
-
-Some promises cost more than money.
-
-The Price of a Promise is an online book experience by Bradley Hobbs that tells the story of a devastating romance scam and the far reaching consequences that followed. What began as trust placed in the wrong person became a journey through financial loss, emotional devastation, difficult lessons, recovery, and ultimately healing.
-
-Beyond the transactions, investigations, and consequences lies a deeper story about vulnerability, hope, resilience, faith, and the strength required to rebuild after betrayal.
-
-This project was designed as an immersive GitHub Pages reading experience where each section of the book unfolds as its own page, creating a steady reading flow from beginning to conclusion.
-
----
+A Christian book or teaching project exploring the cost of commitment, faithfulness, obedience, and the responsibilities attached to a promise.
 
 ## Live Website
-
 https://brad-hobbswd.github.io/priceOfpromise/
 
----
+## Project Overview
+The online reading pages and supporting materials present in this repository.
 
-## What This Book Explores
+Homepage title: **The Price of a Promise**. The Price of a Promise. A memoir of trust, hope, deception, loss, and healing.
 
-• Romance scams and deception
+## Website Pages
+- `about.html`
+- `chapter-template.html`
+- `chapter1.html`
+- `chapter10.html`
+- `chapter11.html`
+- `chapter12.html`
+- `chapter13.html`
+- `chapter14.html`
+- `chapter15.html`
+- `chapter16.html`
+- `chapter17.html`
+- `chapter18.html`
+- `chapter19.html`
+- `chapter2.html`
+- `chapter20.html`
+- `chapter21.html`
+- `chapter22.html`
+- `chapter23.html`
+- `chapter24.html`
+- `chapter25.html`
+- `chapter26.html`
+- `chapter27.html`
+- `chapter28.html`
+- `chapter3.html`
+- `chapter4.html`
+- `chapter5.html`
+- `chapter6.html`
+- `chapter7.html`
+- `chapter8.html`
+- `chapter9.html`
+- `conclusion.html`
+- `contents.html`
+- `introduction.html`
+- `preview.html`
+- `prologue.html`
 
-• Trust and vulnerability
+## Technology
+Static website hosted through GitHub Pages, using the HTML pages and supporting assets included in this repository.
 
-• Financial loss and consequences
+## Copyright and Permissions
+Copyright © 2026 Bradley Hobbs. All rights reserved.
 
-• Emotional recovery
+Original manuscript text, teaching materials, written reflections, website copy, original graphics, visual design, and source code are protected by copyright. Please obtain written permission before reproducing, republishing, modifying, redistributing, or commercially using original materials, except where applicable law permits otherwise. Third-party materials remain subject to their respective rights and terms.
 
-• Resilience during hardship
-
-• Faith through difficult seasons
-
-• Healing from betrayal
-
-• Finding hope after devastation
-
-• Personal growth and restoration
-
----
-
-## Themes
-
-The story explores:
-
-• Broken trust
-
-• Manipulation and deception
-
-• Financial hardship
-
-• Emotional healing
-
-• Recovery and resilience
-
-• Grace and forgiveness
-
-• Faith and perseverance
-
-• Restoration and hope
-
----
-
-## Features
-
-Responsive mobile design
-
-Immersive reading experience
-
-Page by page navigation
-
-Faith centered reflections
-
-GitHub Pages compatible
-
-Consistent reading flow
-
-Book atmosphere carried across all pages
-
----
-
-## About the Author
-
-Bradley Hobbs is an author, storyteller, and creator whose work focuses on healing, restoration, grace, faith, hope, and personal transformation. Through books, devotionals, memoirs, and digital projects, he seeks to encourage readers through honest reflection, meaningful stories, and the belief that redemption remains possible even after life's most painful chapters.
-
----
-
-## Copyright
-
-© Bradley Hobbs
-
-All rights reserved. No portion of this publication may be reproduced, distributed, or transmitted in any form or by any means without prior written permission from the author.
-
----
-
-## Closing Thought
-
-"A broken promise may leave scars, yet hope still writes new chapters."
+## Search Engine Files
+- [Sitemap](sitemap.xml)
+- [robots.txt](robots.txt)
